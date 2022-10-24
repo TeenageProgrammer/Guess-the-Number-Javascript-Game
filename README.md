@@ -6,7 +6,7 @@ Scripted a Cool Javascript Guess the Number Game. Do checkout the Live URL of th
 
 [🔴 Youtube Tutorial Video](https://youtu.be/aMjNGUaldGY?t=846)
 
-[🔵 Live Project URL](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[🔵 Live Project URL](https://teenageprogrammer.github.io/Guess-the-Number-Javascript-Game/)
 
 
 
