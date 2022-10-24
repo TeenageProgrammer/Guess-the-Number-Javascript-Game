@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Guess the Number <br> <span>The Javascript Game</span></h1>
+        <input type="text" placeholder="Enter a Number between 1 - 100" id="numberInput" autofocus>
+        <div class="wonDiv">
+            <img src="./sources/doge-dog.gif" alt="dancing Gif">
+            <p>Congratulations, You Won!</p>
+        </div>
+        <p>Chance Taken - <span id="chanceTaken">0</span></p>
+        <button id="submitNumberBtn">Submit</button>
+    </div>
+    <div id="msgBox">
+        <p class="red">Let's Begin</p>
+    </div>
+
+
+    <!-- Github Source Code HTML -->
+    <a class="sourceCodeLink" href="https://github.com/TeenageProgrammer/Guess-the-Number-Javascript-Game" target="_blank">
+        <img src="./srcImages/github.png" alt="Source Code Link">
+        <p>Source Code</p>
+    </a>
+    <script src="./script.js"></script>
+</body>
+</html>
